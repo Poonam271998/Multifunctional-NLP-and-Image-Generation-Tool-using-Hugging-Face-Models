@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+diffusers
+accelerate
+sentencepiece
+huggingface-hub
+pillow
+numpy
+scipy
+requests
+tqdm
